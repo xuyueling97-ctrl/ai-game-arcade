@@ -34,12 +34,12 @@ const games = [
     image: "./assets/jailbreak.webp",
   },
   {
-  title: "大肥鱼·深海吞食",
-  status: "released",
-  image: "https://raw.githubusercontent.com/xuyueling97-ctrl/big-fat-fish-deep-sea/main/docs/screenshots/playing.png",
-  model: "DeepSeek",
-  description: "从小鱼苗开始，吞食小鱼、躲避天敌，一路成长为深海之王！支持电脑与手机游玩。",
-  playUrl: "https://xuyueling97-ctrl.github.io/big-fat-fish-deep-sea/",
-  sourceUrl: "https://github.com/xuyueling97-ctrl/big-fat-fish-deep-sea",
+    title: "大肥鱼·深海吞食",
+    status: "released",
+    image: "./assets/big-fat-fish-deep-sea.webp",
+    model: "DeepSeek",
+    description: "从小鱼苗开始，吞食小鱼、躲避天敌，一路成长为深海之王！支持电脑与手机游玩。",
+    playUrl: "https://xuyueling97-ctrl.github.io/big-fat-fish-deep-sea/",
+    sourceUrl: "https://github.com/xuyueling97-ctrl/big-fat-fish-deep-sea",
   },
-]
+];
