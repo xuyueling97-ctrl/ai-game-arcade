@@ -54,4 +54,13 @@ const games = [
     playUrl: "https://xuyueling97-ctrl.github.io/big-fat-fish-deep-sea/",
     sourceUrl: "https://github.com/xuyueling97-ctrl/big-fat-fish-deep-sea",
   },
+  {
+    title: "霓虹贪吃蛇",
+    status: "released",
+    image: "./assets/neon-snake.webp",
+    model: "Qwen4 Max Free",
+    description: "在霓虹棋盘上吃食物、抢限时奖励星，一路提速冲向最高分。支持电脑与手机游玩。",
+    playUrl: "https://xuyueling97-ctrl.github.io/neon-snake/",
+    sourceUrl: "https://github.com/xuyueling97-ctrl/neon-snake",
+  },
 ];
